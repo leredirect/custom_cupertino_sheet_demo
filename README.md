@@ -1,16 +1,9 @@
 # sheet_demi
+Example using a custom CupertinoBottomSheet. in the current Flutter implementation (3.32.4) CupertinoBottomSheet does not support nested scrollable. my fork adds this behavior by listening for ScrollNotifications.
+You can copy latest version of CustomCupertinoSheet from this gist:
+https://gist.github.com/leredirect/c5904d9c611388cf6c08449dccc1e91b
 
-A new Flutter project.
+video example:
 
-## Getting Started
+https://github.com/user-attachments/assets/fa56581e-6b98-4a56-a036-1b3a5c630438
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
